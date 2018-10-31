@@ -1,0 +1,38 @@
+https://blog.csdn.net/darkmagician_potter/article/details/48997439 ----反射获取任何对象的属性名和值
+
+https://blog.csdn.net/forezp/article/details/73480304 ---- 深入理解Feign之源码解析 - CSDN博客
+
+https://blog.csdn.net/javaloveiphone/article/details/52439613 ---CAS实现单点登录SSO执行原理探究(终于明白了)
+https://blog.csdn.net/yuxin6866/article/details/73522312  --- SSO
+
+https://blog.csdn.net/xiaolyuh123/article/details/73506189   ----Spring Boot+Mybatis+Pagehelper分页 - CSDN博客
+https://blog.csdn.net/qq_33257527/article/details/80775709   ----SpringBoot使用Mybatis-PageHelper
+
+http://www.importnew.com/25189.html  ----谈谈对Canal（ 增量数据订阅与消费 ）的理解
+https://blog.csdn.net/crazyhuntsman/article/details/82111442   ----Canal
+https://blog.csdn.net/zjerryj/article/details/77152226   -----使用 Binlog 和 Canal 从 MySQL 抽取数据
+
+https://blog.csdn.net/potatobeancox55555/article/details/80588507 ---- spring-boot使用HandlerMethodArgumentResolver   
+对controllor中的执行方法中的参数进行注入  业务逻辑和controllor解耦，统一处理参数注入处理的代码
+https://blog.csdn.net/supersub000/article/details/80108639 
+
+https://blog.csdn.net/zknxx/article/details/51511447 ----反射获取注解元数据
+
+https://blog.csdn.net/u010061655/article/details/79211944   ----VMware Workstation Pro下载安装1030273567@qq.com/*****
+
+https://blog.csdn.net/u011642663/article/details/78462012    ----Spring Cloud 项目出现 Options Forbidden 403 问题解决
+
+https://blog.csdn.net/qq_38663729/article/details/79327305  ---centos安装MySQL
+centos7安装MySQL： https://blog.csdn.net/pengjunlee/article/details/81212250
+
+https://www.cnblogs.com/codingexperience/p/5333202.html  ---spark on yarn部署
+
+https://segmentfault.com/a/1190000012762869    ---分布式事务的几种解决方案
+
+https://blog.csdn.net/liberty12345678/article/details/82527837  ---分布式事务的几种解决方案
+
+https://mp.weixin.qq.com/s/ZwhkUQF1Nun9pNrFI-3a6w   ---@Transactional原理  加入注解的视为同一个上下文,使用相同的connecton进行数据库命令(失败回滚)
+
+https://blog.csdn.net/wwwmooncom/article/details/79161358  ---大数据平台架构图
+
+https://blog.csdn.net/l_bestcoder/article/details/79336986  ---分布式锁的详解
