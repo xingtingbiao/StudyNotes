@@ -31,8 +31,28 @@ https://segmentfault.com/a/1190000012762869    ---分布式事务的几种解决方案
 
 https://blog.csdn.net/liberty12345678/article/details/82527837  ---分布式事务的几种解决方案
 
+https://blog.csdn.net/liberty12345678/article/details/82527837  --- 使用消息队列实现分布式事务
+
 https://mp.weixin.qq.com/s/ZwhkUQF1Nun9pNrFI-3a6w   ---@Transactional原理  加入注解的视为同一个上下文,使用相同的connecton进行数据库命令(失败回滚)
 
 https://blog.csdn.net/wwwmooncom/article/details/79161358  ---大数据平台架构图
 
 https://blog.csdn.net/l_bestcoder/article/details/79336986  ---分布式锁的详解
+
+https://www.cnblogs.com/tengpan-cn/p/5809273.html  ---java NIO原理及实例
+
+https://www.cnblogs.com/ygj0930/p/6543960.html  ----BIO、NIO和AIO的区别（简明版） 有同步异步的解释
+
+https://blog.csdn.net/l_bestcoder/article/details/79352022  ---最通俗易懂的NIO讲解
+
+https://blog.csdn.net/weixin_40255793/article/details/80870363  ---- Java NIO 详解
+
+https://www.cnblogs.com/tengpan-cn/p/5809273.html   ---java NIO原理及实例
+
+https://www.cnblogs.com/yangming1996/p/9181995.html  --- 详解 Java NIO
+
+https://www.cnblogs.com/xiexj/p/6874654.html ---IO回忆录之怎样过目不忘(BIO/NIO/AIO/Netty)
+
+https://blog.csdn.net/l_kanglin/article/details/71531761  ----BIO、NIO、AIO通信机制理解
+
+https://www.jianshu.com/p/0d497fe5484a  --- 深入浅出NIO之Selector实现原理
