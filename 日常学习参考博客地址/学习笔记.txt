@@ -56,3 +56,15 @@ https://www.cnblogs.com/xiexj/p/6874654.html ---IO回忆录之怎样过目不忘(BIO/NIO/A
 https://blog.csdn.net/l_kanglin/article/details/71531761  ----BIO、NIO、AIO通信机制理解
 
 https://www.jianshu.com/p/0d497fe5484a  --- 深入浅出NIO之Selector实现原理
+
+http://www.cnblogs.com/fsychen/p/9361858.html   ---- 深入理解HashMap和CurrentHashMap
+
+https://github.com/alibaba/canal/wiki/QuickStart   ----alibaba/canal
+
+https://blog.csdn.net/Dome_/article/details/80028087  --- Rabbitmq的五种模式和案例
+
+https://www.jianshu.com/p/824066d70da8   --- RocketMQ 实战之快速入门
+
+https://blog.csdn.net/lyly4413/article/details/80838716  --- RocketMQ工作原理
+
+https://blog.csdn.net/tzs_1041218129/article/details/79296633   ---- RocketMQ 安装及快速入门
