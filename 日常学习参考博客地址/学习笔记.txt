@@ -69,4 +69,5 @@ https://blog.csdn.net/lyly4413/article/details/80838716  --- RocketMQ工作原理
 
 https://blog.csdn.net/tzs_1041218129/article/details/79296633   ---- RocketMQ 安装及快速入门
 http://www.mamicode.com/info-detail-2188335.html   --- RocketMQ 安装常见问题
+https://blog.csdn.net/zknxx/article/details/52987216   --- 解决RocketMQ报No route info of this topic：异常
 https://blog.csdn.net/hqwang4/article/details/79134958  --- RocketMQ可视化管理平台rocket-console
