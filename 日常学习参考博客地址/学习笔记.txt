@@ -68,3 +68,5 @@ https://www.jianshu.com/p/824066d70da8   --- RocketMQ 实战之快速入门
 https://blog.csdn.net/lyly4413/article/details/80838716  --- RocketMQ工作原理
 
 https://blog.csdn.net/tzs_1041218129/article/details/79296633   ---- RocketMQ 安装及快速入门
+http://www.mamicode.com/info-detail-2188335.html   --- RocketMQ 安装常见问题
+https://blog.csdn.net/hqwang4/article/details/79134958  --- RocketMQ可视化管理平台rocket-console
