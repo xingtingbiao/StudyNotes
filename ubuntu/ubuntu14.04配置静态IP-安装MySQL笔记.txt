@@ -7,3 +7,6 @@ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'root';
 flush privileges;
 
 https://blog.csdn.net/veechange/article/details/51733914  ---Ubuntu14.04下MySQL数据库无法远程访问的问题
+
+
+https://www.cnblogs.com/liermao12/p/6079471.html   --- VMWare虚拟机下为Ubuntu 配置静态IP（NAT方式）ping通主机
