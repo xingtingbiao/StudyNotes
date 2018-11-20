@@ -73,3 +73,8 @@ https://blog.csdn.net/zknxx/article/details/52987216   --- 解决RocketMQ报No rout
 https://blog.csdn.net/hqwang4/article/details/79134958  --- RocketMQ可视化管理平台rocket-console
 
 https://blog.csdn.net/paincupid/article/details/79721817  ---RocketMQ与kafka对比（18项差异）-转自阿里中间件
+
+https://blog.csdn.net/fanfan4569/article/details/80806996   --- 【Canal】之 搭建环境 和 客户端运行
+https://www.cnblogs.com/java-spring/p/8930740.html    ----Canal的简单使用
+https://www.cnblogs.com/yaojf/p/7737433.html      --- Canal使用小结
+https://www.aliyun.com/jiaocheng/topic_13861.html   --- Canal - 教程中心 - 阿里云
