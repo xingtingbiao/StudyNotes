@@ -78,3 +78,7 @@ https://blog.csdn.net/fanfan4569/article/details/80806996   --- 【Canal】之 搭建
 https://www.cnblogs.com/java-spring/p/8930740.html    ----Canal的简单使用
 https://www.cnblogs.com/yaojf/p/7737433.html      --- Canal使用小结
 https://www.aliyun.com/jiaocheng/topic_13861.html   --- Canal - 教程中心 - 阿里云
+
+
+https://www.cnblogs.com/lsdb/p/7297731.html     ---zookeeper安装教程（zookeeper3.4.5为例）
+https://www.cnblogs.com/sandea/p/8837054.html   ---《KAFKA官方文档》入门指南（转）
