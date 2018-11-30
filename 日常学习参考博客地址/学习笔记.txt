@@ -82,3 +82,6 @@ https://www.aliyun.com/jiaocheng/topic_13861.html   --- Canal - ½Ì³ÌÖĞĞÄ - °¢ÀïÔ
 
 https://www.cnblogs.com/lsdb/p/7297731.html     ---zookeeper°²×°½Ì³Ì£¨zookeeper3.4.5ÎªÀı£©
 https://www.cnblogs.com/sandea/p/8837054.html   ---¡¶KAFKA¹Ù·½ÎÄµµ¡·ÈëÃÅÖ¸ÄÏ£¨×ª£©
+
+https://blog.csdn.net/u010316188/article/details/84257383   --- gradleÅäÖÃ»·¾³±äÁ¿
+https://www.cnblogs.com/dwb91/p/6523541.html    --- ĞŞ¸ÄGradle ºÍMaven±¾µØ²Ö¿âµÄÎ»ÖÃ ·½·¨
