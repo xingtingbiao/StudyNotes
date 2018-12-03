@@ -1,0 +1,2 @@
+https://www.cnblogs.com/029zz010buct/p/9403283.html   ---Flink之状态之状态存储 state backends
+https://blog.csdn.net/u013368491/article/details/82053119   ---Flink状态管理和容错机制介绍
