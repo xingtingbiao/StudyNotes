@@ -1,2 +1,5 @@
 https://www.cnblogs.com/029zz010buct/p/9403283.html   ---Flink之状态之状态存储 state backends
 https://blog.csdn.net/u013368491/article/details/82053119   ---Flink状态管理和容错机制介绍
+https://www.cnblogs.com/fanzhidongyzby/p/6297723.html   ---Flink架构、原理与部署测试
+https://blog.csdn.net/sinat_22104197/article/details/58587768   ---Flink源码解析之State的实现
+https://blog.csdn.net/xorxos/article/details/80877266  --- Flink原理与实现：详解Flink中的状态管理
