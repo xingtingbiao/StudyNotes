@@ -1,0 +1,2 @@
+https://blog.csdn.net/early_linzi/article/details/84615110    --- spring boot的yml文件用profiles实现不同环境的配置
+http://www.cnblogs.com/zeng1994/p/06917ed3b98677fa7a1b0f74de16c3be.html   --- Maven的porfile与SpringBoot的profile结合使用详解
