@@ -1,3 +1,7 @@
 https://blog.csdn.net/early_linzi/article/details/84615110    --- spring boot的yml文件用profiles实现不同环境的配置
 http://www.cnblogs.com/zeng1994/p/06917ed3b98677fa7a1b0f74de16c3be.html   --- Maven的porfile与SpringBoot的profile结合使用详解
 https://blog.csdn.net/yh_zeng2/article/details/82351011    --- SpringBoot Profiles实现多环境下配置切换
+
+https://blog.csdn.net/xiaosheng_papa/article/details/80218006     --- springboot+mybatis多数据源配置，AOP注解动态切换数据源
+
+https://blog.csdn.net/u012557538/article/details/79218808   --- springboot配置多数据源并集成Druid
