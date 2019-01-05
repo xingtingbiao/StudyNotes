@@ -86,3 +86,6 @@ https://www.cnblogs.com/sandea/p/8837054.html   ---《KAFKA官方文档》入门指南（转
 
 https://blog.csdn.net/u010316188/article/details/84257383   --- gradle配置环境变量
 https://www.cnblogs.com/dwb91/p/6523541.html    --- 修改Gradle 和Maven本地仓库的位置 方法
+
+https://www.cnblogs.com/checkt/p/9402579.html  ---java通过freemarker模板导出pdf
+https://my.oschina.net/lujianing/blog/894365   --- 电子凭证-Java生成Pdf
