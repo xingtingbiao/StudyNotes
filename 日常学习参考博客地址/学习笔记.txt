@@ -90,3 +90,6 @@ https://www.cnblogs.com/dwb91/p/6523541.html    --- 修改Gradle 和Maven本地仓库的
 https://www.cnblogs.com/checkt/p/9402579.html  ---java通过freemarker模板导出pdf
 https://my.oschina.net/lujianing/blog/894365   --- 电子凭证-Java生成Pdf
 https://www.jianshu.com/p/ddabf675c647    ---- iText通过html生成pdf(包含中文,css)
+
+
+https://www.cnblogs.com/zhyunfe/p/6209074.html  --- MySQL数据库优化的八种方式(经典必看)
