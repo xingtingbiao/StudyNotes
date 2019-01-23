@@ -1,0 +1,1 @@
+https://blog.csdn.net/besimplebegood/article/details/80399882    --- golang 字符串拼接性能比较
