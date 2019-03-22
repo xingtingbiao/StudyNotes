@@ -1,0 +1,1 @@
+https://www.cnblogs.com/shabbylee/p/6792555.html        ---- 当同时安装Python2和Python3后，如何兼容并切换使用详解（比如pip使用）
