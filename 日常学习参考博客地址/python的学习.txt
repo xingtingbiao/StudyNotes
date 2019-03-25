@@ -1,1 +1,30 @@
 https://www.cnblogs.com/shabbylee/p/6792555.html        ---- 当同时安装Python2和Python3后，如何兼容并切换使用详解（比如pip使用）
+
+--- Windows 下python的tab自动补全
+https://www.cnblogs.com/51zf/p/9182791.html                  --- py -2/3 -m pip install ipython
+https://www.cnblogs.com/pyshell/p/7259824.html              --- py -2/3 -m pip install pyreadline
+
+Windows上同时安装了python2 和 python3的ipython，只要在ipython后面加上版本号: ipython2/ipython3 运行即可
+
+
+安装 pyreadline需要在python的安装目录下新建tab.py，负责如下内容:
+注意: python 2 需要先执行import tab 才能奏效
+
+#python Tab
+import sys   
+import readline   
+import rlcompleter   
+import atexit   
+import os    
+readline.parse_and_bind('tab: complete')   
+# windows
+histfile = os.path.join(os.environ['HOMEPATH'], '.pythonhistory')   
+# linux
+# histfile = os.path.join(os.environ['HOME'], '.pythonhistory')   
+try:   
+    readline.read_history_file(histfile)   
+except IOError:   
+    pass   
+atexit.register(readline.write_history_file, histfile)   
+
+del os, histfile, readline, rlcompleter
