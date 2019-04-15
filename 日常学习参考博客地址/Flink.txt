@@ -7,3 +7,5 @@ https://blog.csdn.net/xorxos/article/details/80877266  --- Flink原理与实现�
 https://www.jianshu.com/p/085e4dc03fab   --- Flink中的wiki-edits例子实践
 
 https://blog.csdn.net/xu470438000/article/details/83271123    --- Flink EventTime和Watermarks案例分析
+
+https://blog.csdn.net/ffjl1985/article/details/81775019   --- 精通Apache Flink必读系列文章
