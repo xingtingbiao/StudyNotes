@@ -5,3 +5,5 @@ https://blog.csdn.net/yh_zeng2/article/details/82351011    --- SpringBoot Profil
 https://blog.csdn.net/xiaosheng_papa/article/details/80218006     --- springboot+mybatis多数据源配置，AOP注解动态切换数据源
 
 https://blog.csdn.net/u012557538/article/details/79218808   --- springboot配置多数据源并集成Druid
+
+https://blog.csdn.net/qq_37170583/article/details/80704660    --- springsecurity+oauth2.0
