@@ -7,3 +7,5 @@ https://blog.csdn.net/xiaosheng_papa/article/details/80218006     --- springboot
 https://blog.csdn.net/u012557538/article/details/79218808   --- springboot配置多数据源并集成Druid
 
 https://blog.csdn.net/qq_37170583/article/details/80704660    --- springsecurity+oauth2.0
+
+https://mp.weixin.qq.com/s/MNkkIfBzslAjAc9IXQntIA   --- Spring Cloud学习资源一网打尽！Awesome Spring Cloud v1.0
